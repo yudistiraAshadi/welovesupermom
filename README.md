@@ -16,6 +16,14 @@ Currently includes:
 
 ## Quick Start
 
+1. Prerequisites - make sure you're set up for React Native by following [the official documentation](https://reactnative.dev/docs/environment-setup).
+
+2. After that, you can go into the root directory `cd WelovesupermomHelloworld`, and then run `yarn android` or `yarn ios` based on your preferred development device.
+
+3. Run `yarn start` to start the Metro, the JavaScript bundler that ships with React Native, to run the app in debug mode
+
+## File Structure
+
 The Ignite boilerplate project's structure will look similar to this:
 
 ```
