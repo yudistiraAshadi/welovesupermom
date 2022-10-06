@@ -116,13 +116,3 @@ The `ignite` directory stores all things Ignite, including CLI and boilerplate i
 ### ./test directory
 
 This directory will hold your Jest configs and mocks.
-
-## Running Detox end-to-end tests
-
-Read [Detox setup instructions](./detox/README.md).
-
-## Previous Boilerplates
-
-- [2018 aka Bowser](https://github.com/infinitered/ignite-bowser)
-- [2017 aka Andross](https://github.com/infinitered/ignite-andross)
-- [2016 aka Ignite 1.0](https://github.com/infinitered/ignite-ir-boilerplate-2016)
